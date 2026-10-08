@@ -1,0 +1,9 @@
+"if else statement"
+a = 100 
+b = 50 
+if b>a :
+    print("b grather than a")
+elif b>a :
+   print("a is grather than b")
+else:
+   print("a is grather than b")
